@@ -1,2 +1,1 @@
-# fds-studio
-immortaliser vos ceremonies, revivez tous les jours la belle journee de votre vie . 
+Site web vitrine pour la description des services de photographie 
